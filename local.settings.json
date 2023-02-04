@@ -1,0 +1,16 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "AzureWebJobsStorage": "",
+    "MYSQL_USER": "apidemo",
+    "MYSQL_HOST": "azure-mysql-demo.mysql.database.azure.com",
+    "MYSQL_PASSWORD": "Tester@321",
+    "MYSQL_DATABASE": "tasks",
+    "MYSQL_DIALECT": "mysql"
+  },
+  "ConnectionStrings": {},
+  "Host": {
+    "CORS": "*"
+  }
+}
